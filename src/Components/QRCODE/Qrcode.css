@@ -1,0 +1,32 @@
+.qrcode{
+text-align: center;    
+}
+.text h1{
+font-size: 35px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+padding-top: 80px;    
+}
+.generate{
+ padding-top: 40px;   
+}
+.generate input{
+padding: 15px 40px;
+border-radius: 5px;
+font-size: 18px;    
+}
+.generate button{
+padding: 16px 18px;
+font-size: 18px; 
+background-color: crimson;
+color: #fff;
+border: none;
+margin: 0 5px;
+border-radius: 5px; 
+cursor: pointer;   
+}
+.image img{
+width: 350px;
+height: 250px;
+padding-top: 25px;
+}
